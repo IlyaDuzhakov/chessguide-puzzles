@@ -1,0 +1,40 @@
+{
+  "puzzles": [
+    {
+      "id": "puzzle001",
+      "title": "Уничтожение защиты",
+      "category": "тактика",
+      "subcategory": "Уничтожение защиты",
+      "difficulty": "easy",
+      "sideToMove": "white",
+      "fen": "6R1/kp2qp2/p4p2/PP6/3br1P1/2PQ4/1K6/8 w - - 0 1",
+      "hint": "Какая чёрная фигура мешает поставить мат?",
+      "image": "https://yourdomain.com/images/puzzle001.png",
+      "tags": ["уничтожение защиты", "тактика"]
+    },
+    {
+      "id": "puzzle002",
+      "title": "Уничтожение защиты",
+      "category": "тактика",
+      "subcategory": "Уничтожение защиты",
+      "difficulty": "hard",
+      "sideToMove": "black",
+      "fen": "8/4bk1p/4p2R/pr1pB1r1/n1pPPN2/2P2P2/KP1R4/8 b - - 0 1",
+      "hint": "Черные начинают и матуют",
+      "image": "https://yourdomain.com/images/puzzle002.png",
+      "tags": ["первая_линия", "жертва", "тактика", "уничтожение защиты"]
+    },
+    {
+      "id": "puzzle003",
+      "title": "Стратегический прием Барьер",
+      "category": "стратегия",
+      "subcategory": "Стратегический приём Барьер",
+      "difficulty": "easy",
+      "sideToMove": "white",
+      "fen": "rn1q1rk1/pbp2ppp/1p2pn2/8/1bBP4/2N1P3/PP2NPPP/R1BQ1RK1 b - - 0 1",
+      "hint": "Как белые ограничили фигуры соперника с помощью барьера?",
+      "image": "https://yourdomain.com/images/puzzle003.png",
+      "tags": ["стратегия", "барьер", "Петросян-Спасский"]
+    }
+  ]
+}
